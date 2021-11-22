@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "808386626655",
+    "firebase_url": "https://student-tracker-system-default-rtdb.firebaseio.com",
+    "project_id": "student-tracker-system",
+    "storage_bucket": "student-tracker-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808386626655:android:d6b77c755b822cda44c7ea",
+        "android_client_info": {
+          "package_name": "com.project.sts_faculty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808386626655-j9bgprpaiia27uha15lgh6a7rs4efuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2YDec8ZmojLk6xRuCrZiGHouZnrIOQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808386626655-j9bgprpaiia27uha15lgh6a7rs4efuas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808386626655:android:7f2803e1ddd972f344c7ea",
+        "android_client_info": {
+          "package_name": "com.project.sts_hod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808386626655-j9bgprpaiia27uha15lgh6a7rs4efuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2YDec8ZmojLk6xRuCrZiGHouZnrIOQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808386626655-j9bgprpaiia27uha15lgh6a7rs4efuas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808386626655:android:fd04ba3c193164b144c7ea",
+        "android_client_info": {
+          "package_name": "com.project.stsfaculty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808386626655-j9bgprpaiia27uha15lgh6a7rs4efuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2YDec8ZmojLk6xRuCrZiGHouZnrIOQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808386626655-j9bgprpaiia27uha15lgh6a7rs4efuas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
